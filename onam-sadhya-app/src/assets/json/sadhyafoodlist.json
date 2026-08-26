@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Kerala Red Rice",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 40,
+    "Quantity": 0
+  },
+  {
+    "id": 2,
+    "name": "Parippu Curry",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 50,
+    "Quantity": 0
+  },
+  {
+    "id": 3,
+    "name": "Sambar",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 50,
+    "Quantity": 0
+  },
+  {
+    "id": 4,
+    "name": "Rasam",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 40,
+    "Quantity": 0
+  },
+  {
+    "id": 5,
+    "name": "Avial",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 60,
+    "Quantity": 0
+  },
+  {
+    "id": 6,
+    "name": "Thoran",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 50,
+    "Quantity": 0
+  },
+  {
+    "id": 7,
+    "name": "Olan",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 50,
+    "Quantity": 0
+  },
+  {
+    "id": 8,
+    "name": "Kalan",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 55,
+    "Quantity": 0
+  },
+  {
+    "id": 9,
+    "name": "Pulissery",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 45,
+    "Quantity": 0
+  },
+  {
+    "id": 10,
+    "name": "Theeyal",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 55,
+    "Quantity": 0
+  },
+  {
+    "id": 11,
+    "name": "Erissery",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 50,
+    "Quantity": 0
+  },
+  {
+    "id": 12,
+    "name": "Koottukari",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 50,
+    "Quantity": 0
+  },
+  {
+    "id": 13,
+    "name": "Pachadi",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 45,
+    "Quantity": 0
+  },
+  {
+    "id": 14,
+    "name": "Kichadi",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 45,
+    "Quantity": 0
+  },
+  {
+    "id": 15,
+    "name": "Beetroot Thoran",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 45,
+    "Quantity": 0
+  },
+  {
+    "id": 16,
+    "name": "Cabbage Thoran",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 45,
+    "Quantity": 0
+  },
+  {
+    "id": 17,
+    "name": "Inji Curry",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 35,
+    "Quantity": 0
+  },
+  {
+    "id": 18,
+    "name": "Mango Pickle",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 30,
+    "Quantity": 0
+  },
+  {
+    "id": 19,
+    "name": "Lime Pickle",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 30,
+    "Quantity": 0
+  },
+  {
+    "id": 20,
+    "name": "Pappadam",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 20,
+    "Quantity": 0
+  },
+  {
+    "id": 21,
+    "name": "Banana Chips",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 30,
+    "Quantity": 0
+  },
+  {
+    "id": 22,
+    "name": "Sharkara Varatti",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 35,
+    "Quantity": 0
+  },
+  {
+    "id": 23,
+    "name": "Pineapple Pachadi",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 50,
+    "Quantity": 0
+  },
+  {
+    "id": 24,
+    "name": "Banana",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 20,
+    "Quantity": 0
+  },
+  {
+    "id": 25,
+    "name": "Palada Payasam",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 70,
+    "Quantity": 0
+  },
+  {
+    "id": 26,
+    "name": "Parippu Payasam",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 70,
+    "Quantity": 0
+  },
+  {
+    "id": 27,
+    "name": "Ada Pradhaman",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 80,
+    "Quantity": 0
+  },
+  {
+    "id": 28,
+    "name": "Semiya Payasam",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 65,
+    "Quantity": 0
+  },
+  {
+    "id": 29,
+    "name": "Moru",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 30,
+    "Quantity": 0
+  },
+  {
+    "id": 30,
+    "name": "Ghee",
+    "cuisine": "Sadhya",
+    "type": "Veg",
+    "price": 25,
+    "Quantity": 0
+  }
+]
