@@ -1,0 +1,18 @@
+[
+    {
+        "FieldLabel": [
+            "All",
+            "Main Course",
+            "Curry",
+            "Pachadi",
+            "Pickle",
+            "Payasam",
+            "Snack",
+            "Fruit",
+            "Drink",
+            "Rice"
+        ],
+        "FieldType": "checkbox",
+        "FieldChecked": true
+    }
+]

@@ -4,7 +4,7 @@
     "name": "Ada Pradhaman",
     "category": "Payasam",
     "price": 80,
-    "image": "Ada-pradhaman",
+    "image": "/images/Ada-pradhaman.png",
     "Quantity": 0
   },
   {
@@ -12,7 +12,7 @@
     "name": "Avial",
     "category": "Main Course",
     "price": 70,
-    "image": "Avial",
+    "image": "/images/Avial.png",
     "Quantity": 0
   },
   {
@@ -20,7 +20,7 @@
     "name": "Banana",
     "category": "Fruit",
     "price": 20,
-    "image": "Banana",
+    "image": "/images/Banana.png",
     "Quantity": 0
   },
   {
@@ -28,7 +28,7 @@
     "name": "Banana Chips",
     "category": "Snack",
     "price": 40,
-    "image": "banana-chips",
+    "image": "/images/banana-chips.png",
     "Quantity": 0
   },
   {
@@ -36,7 +36,7 @@
     "name": "Beetroot Pachadi",
     "category": "Pachadi",
     "price": 50,
-    "image": "beetroot-pachadi",
+    "image": "/images/beetroot-pachadi.png",
     "Quantity": 0
   },
   {
@@ -44,7 +44,7 @@
     "name": "Boiled Banana",
     "category": "Fruit",
     "price": 30,
-    "image": "Boiled-banana",
+    "image": "/images/Boiled-banana.png",
     "Quantity": 0
   },
   {
@@ -52,7 +52,7 @@
     "name": "Complete Sadhya",
     "category": "Main Course",
     "price": 250,
-    "image": "complete-sadhya",
+    "image": "/images/complete-sadhya.png",
     "Quantity": 0
   },
   {
@@ -60,7 +60,7 @@
     "name": "Cucumber Pachadi",
     "category": "Pachadi",
     "price": 50,
-    "image": "cucumber-pachadi",
+    "image": "/images/cucumber-pachadi.png",
     "Quantity": 0
   },
   {
@@ -68,7 +68,7 @@
     "name": "Inji Curry",
     "category": "Pickle",
     "price": 40,
-    "image": "Inji-Curry",
+    "image": "/images/Inji-Curry.png",
     "Quantity": 0
   },
   {
@@ -76,7 +76,7 @@
     "name": "Kalan",
     "category": "Main Course",
     "price": 60,
-    "image": "Kalan",
+    "image": "/images/Kalan.png",
     "Quantity": 0
   },
   {
@@ -84,7 +84,7 @@
     "name": "Kerala Red Rice",
     "category": "Rice",
     "price": 60,
-    "image": "kerala-red-rice",
+    "image": "/images/kerala-red-rice.png",
     "Quantity": 0
   },
   {
@@ -92,7 +92,7 @@
     "name": "Koottukari",
     "category": "Main Course",
     "price": 60,
-    "image": "Koottukari",
+    "image": "/images/Koottukari.png",
     "Quantity": 0
   },
   {
@@ -100,7 +100,7 @@
     "name": "Lime Pickle",
     "category": "Pickle",
     "price": 30,
-    "image": "Lime-pickle",
+    "image": "/images/Lime-pickle.png",
     "Quantity": 0
   },
   {
@@ -108,7 +108,7 @@
     "name": "Mango Pickle",
     "category": "Pickle",
     "price": 30,
-    "image": "Mango-pickle",
+    "image": "/images/Mango-pickle.png",
     "Quantity": 0
   },
   {
@@ -116,7 +116,7 @@
     "name": "Moru Curry",
     "category": "Curry",
     "price": 50,
-    "image": "moru-curry",
+    "image": "/images/moru-curry.png",
     "Quantity": 0
   },
   {
@@ -124,7 +124,7 @@
     "name": "Olan",
     "category": "Main Course",
     "price": 60,
-    "image": "Olan",
+    "image": "/images/Olan.png",
     "Quantity": 0
   },
   {
@@ -132,7 +132,7 @@
     "name": "Palada Payasam",
     "category": "Payasam",
     "price": 80,
-    "image": "Palada-payasam",
+    "image": "/images/Palada-payasam.png",
     "Quantity": 0
   },
   {
@@ -140,7 +140,7 @@
     "name": "Pappadam",
     "category": "Snack",
     "price": 20,
-    "image": "pappadam",
+    "image": "/images/pappadam.png",
     "Quantity": 0
   },
   {
@@ -148,7 +148,7 @@
     "name": "Parippu Curry",
     "category": "Curry",
     "price": 50,
-    "image": "Parippu-Curry",
+    "image": "/images/Parippu-Curry.png",
     "Quantity": 0
   },
   {
@@ -156,7 +156,7 @@
     "name": "Parippu Payasam",
     "category": "Payasam",
     "price": 80,
-    "image": "Parippu-payasam",
+    "image": "/images/Parippu-payasam.png",
     "Quantity": 0
   },
   {
@@ -164,7 +164,7 @@
     "name": "Pineapple Pachadi",
     "category": "Pachadi",
     "price": 50,
-    "image": "pineapple-pachadi",
+    "image": "/images/pineapple-pachadi.png",
     "Quantity": 0
   },
   {
@@ -172,7 +172,7 @@
     "name": "Pulissery",
     "category": "Curry",
     "price": 50,
-    "image": "Pulissery",
+    "image": "/images/Pulissery.png",
     "Quantity": 0
   },
   {
@@ -180,7 +180,7 @@
     "name": "Rasam",
     "category": "Curry",
     "price": 40,
-    "image": "Rasam",
+    "image": "/images/Rasam.png",
     "Quantity": 0
   },
   {
@@ -188,7 +188,7 @@
     "name": "Sambar",
     "category": "Curry",
     "price": 50,
-    "image": "Sambar",
+    "image": "/images/Sambar.png",
     "Quantity": 0
   },
   {
@@ -196,7 +196,7 @@
     "name": "Sambharam",
     "category": "Drink",
     "price": 40,
-    "image": "Sambharam",
+    "image": "/images/Sambharam.png",
     "Quantity": 0
   },
   {
@@ -204,7 +204,7 @@
     "name": "Semiya Payasam",
     "category": "Payasam",
     "price": 80,
-    "image": "Semiya-payasam",
+    "image": "/images/Semiya-payasam.png",
     "Quantity": 0
   },
   {
@@ -212,7 +212,7 @@
     "name": "Sharkara Upperi",
     "category": "Snack",
     "price": 40,
-    "image": "Sharkara-upperi",
+    "image": "/images/Sharkara-upperi.png",
     "Quantity": 0
   },
   {
@@ -220,7 +220,7 @@
     "name": "Tender Coconut",
     "category": "Drink",
     "price": 50,
-    "image": "tender-coconut",
+    "image": "/images/tender-coconut.png",
     "Quantity": 0
   },
   {
@@ -228,7 +228,7 @@
     "name": "Theeyal",
     "category": "Curry",
     "price": 60,
-    "image": "Theeyal",
+    "image": "/images/Theeyal.png",
     "Quantity": 0
   },
   {
@@ -236,7 +236,7 @@
     "name": "Thoran",
     "category": "Main Course",
     "price": 60,
-    "image": "Thoran",
+    "image": "/images/Thoran.png",
     "Quantity": 0
   }
 ]
