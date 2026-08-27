@@ -1,15 +1,24 @@
 import Cart from "./cart"
-export default function Menu({ foodList, addToCart, removeFromCart, totalQuantity, subTotal, discountAmount, cartlist,finalAmount }) {
+export default function Menu({ foodList, paymentStatus, pay, addToCart, removeFromCart, totalQuantity, subTotal, discountAmount, cartlist, finalAmount }) {
 
     return (
 
         <>
-            <div className="text-center py-5 bg-light border-bottom">
+
+            <div className=" text-center py-5 bg-light border-bottom">
                 <h3 className="display-8 fw-bold text-success mb-3">
                     🌼 Menu 🌼
                 </h3>
+
+            {foodList.length === 0 &&(
+                <div className="text-center py-5 my-3">
+                    <p className="fs-4 fw-bold text-danger mb-0">
+                    “😔 No food found. Try searching for something else.”
+                </p>
+                </div>
+            )}
             </div>
-            <div className="container py-4">
+            <div className="container py-4" id="menu-section">
                 <div className="row g-4">
                     {foodList.map((value, index) => {
                         return (
@@ -57,16 +66,22 @@ export default function Menu({ foodList, addToCart, removeFromCart, totalQuantit
                     })}
                 </div>
             </div>
-            <Cart
-                foodList={foodList}
-                totalQuantity={totalQuantity}
-                discountAmount={discountAmount}
-                finalAmount={finalAmount}
-                addToCart={addToCart}
-                removeFromCart={removeFromCart}
-                subTotal={subTotal}
-                cartlist={cartlist}
-            />
+            {totalQuantity > 0 && (
+                <Cart
+                    foodList={foodList}
+                    totalQuantity={totalQuantity}
+                    discountAmount={discountAmount}
+                    finalAmount={finalAmount}
+                    addToCart={addToCart}
+                    removeFromCart={removeFromCart}
+                    subTotal={subTotal}
+                    cartlist={cartlist}
+                    paymentStatus={paymentStatus}
+                    pay={pay}
+                />
+            )
+            }
+
         </>
     )
 }

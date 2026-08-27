@@ -1,5 +1,6 @@
 export default function Cart({
-    
+    paymentStatus,
+    pay,
     addToCart,
     removeFromCart,
     totalQuantity,
@@ -11,7 +12,7 @@ export default function Cart({
 
     return (
         <>
-            <div className="container my-5">
+            <div className="container my-5" id="cart-section">
 
                 <h2 className="text-center fw-bold text-success mb-4">
                     🛒 Your Cart
@@ -166,7 +167,7 @@ export default function Cart({
                                     </span>
                                 </div>
 
-                                <button className="btn btn-success w-100 fw-bold py-2">
+                                <button className="btn btn-success w-100 fw-bold py-2" onClick={pay}>
                                     Proceed to Checkout
                                 </button>
 
