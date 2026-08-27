@@ -1,5 +1,4 @@
 export default function Cart({
-    paymentStatus,
     pay,
     addToCart,
     removeFromCart,
