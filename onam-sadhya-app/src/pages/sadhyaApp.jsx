@@ -91,7 +91,6 @@ export default function SadhyaFood() {
     const handlechange = (event) => {
         const category = event.target.id
         const status = event.target.checked
-
         if (status == true && category == "All") {
             setSelectedCategory([
                 "All"
