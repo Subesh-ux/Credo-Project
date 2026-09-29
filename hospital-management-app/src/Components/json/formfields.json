@@ -1,0 +1,20 @@
+[
+  {
+    "fieldLabel": "User Name",
+    "fieldType": "text",
+    "fieldName": "username",
+    "fieldId": "username",
+    "fieldClass": "",
+    "fieldEnable": true,
+    "fieldDefaultValue": ""
+  },
+  {
+    "fieldLabel": "Password",
+    "fieldType": "password",
+    "fieldName": "password",
+    "fieldId": "password",
+    "fieldClass": "",
+    "fieldEnable": true,
+    "fieldDefaultValue": ""
+  }
+]
